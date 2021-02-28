@@ -1,2 +1,2 @@
 # financeiro
-Aplicação Web utilizando HTML, CSS e JS
+Aplicação de controle financeiro utilizando HTML, CSS e JS
